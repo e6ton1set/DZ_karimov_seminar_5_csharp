@@ -21,7 +21,6 @@ int GetArrayRandomNumbers(int size)
 }
 
 int size = 0;
-int[] array = new int[size];
 Console.WriteLine("Введите размер массива: ");
 size = Convert.ToInt32(Console.ReadLine());
 
